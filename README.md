@@ -51,7 +51,7 @@ PSRule.Rules.Azure | Validate Azure resources and infrastructure as code using P
 PSRule for Azure provides two methods for analyzing Azure resources:
 
 - _Pre-flight_ - Before resources are deployed from Azure Resource Manager templates.
-- _In-flight_ - After resource are deployed to an Azure subscription.
+- _In-flight_ - After resources are deployed to an Azure subscription.
 
 For specific use cases see [scenarios](#scenarios).
 For additional details see the [FAQ](https://azure.github.io/PSRule.Rules.Azure/features/#frequentlyaskedquestionsfaq).
